@@ -1,4 +1,4 @@
-#¿Es   posible escribir el   programa del ejercicio 7 sin usar variables? Inténtalo.
+#¿Es posible escribir el programa del ejercicio 7 sin usar variables? Inténtalo.
 
 #procedimiento
 def sumaSinVariables(numeroUno,numeroDos,numeroTres) ->(int):
